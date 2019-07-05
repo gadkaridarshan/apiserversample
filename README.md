@@ -14,38 +14,6 @@ For testing the application:
 	Postman chrome extension or some similar tool
 
 
-#### What test you completed?
-Backend
-
-
-#### What you'd have changed, if you had more time?
-I would have added nginx and gunicorn to make the application scalable
-I would have used React as the UI rather than just Flask Jinga2 templates
-I would have built UI (or even React UI) to get postcodes within a specific radius
-I would have done more error/exception handling
-I would have used Flask werkzeug SimpleCache or MemcachedCache for repeat requests to the same postcode to avoid making external API calls
-I would have added more documentation
-I would have made Blueprint implementation using classes
-Possibly added a few more test cases
-I would have added security (example: jwt or even oath2)
-
-
-#### What bits did you find the toughest? What bit are you most proud of? In both cases, why?
-The only thing tough was I could not do the above items that I would have done if I had more time. If i had more time then the toughest part would have been React components
-Why? - Because I am more comfortable with Python than React/JS
-I am proud of the facts that I implemented
-Blueprint
-One API calling another
-pandas (for joining data)
-Basic MVC (Model, View/Template, Controller)
-Why? - Because I love pandas and writing code in smaller chunks/modules
-
-
-#### How can we improve this test?
-This is a good test. One suggestion I can think of is to deploy this as a microservice to AWS lambda
-I like using zappa for deploying Flask microservice to lambda
-
-
 #### Running the Application
 dockerfile in included
 requirements.txt is included to cover dependent packages
