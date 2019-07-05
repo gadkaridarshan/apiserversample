@@ -1,0 +1,26 @@
+.content {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    font-family: 'Consolas', 'Deja Vu Sans Mono', 'Bitstream Vera Sans Mono', monospace;
+}
+.bodycontent {
+	background-color: lightblue;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: right;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 25px;
+}

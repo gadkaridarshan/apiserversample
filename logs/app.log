@@ -1,0 +1,102 @@
+INFO  2019-06-22 21:42:59,716 _internal.py         _log                      87     * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+DEBUG 2019-06-22 21:43:10,673 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:43:11,661 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 75551
+INFO  2019-06-22 21:43:11,801 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:43:11,801 Coordinates.py       get_coordinates           65    chunk_size: 200
+INFO  2019-06-22 21:43:11,817 _internal.py         _log                      87    127.0.0.1 - - [22/Jun/2019 21:43:11] "GET /data HTTP/1.1" 200 -
+DEBUG 2019-06-22 21:43:15,195 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:43:15,861 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 75551
+INFO  2019-06-22 21:43:15,958 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:43:15,958 Coordinates.py       get_coordinates           65    chunk_size: 200
+INFO  2019-06-22 21:43:15,981 _internal.py         _log                      87    127.0.0.1 - - [22/Jun/2019 21:43:15] "GET / HTTP/1.1" 200 -
+DEBUG 2019-06-22 21:43:35,676 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:43:36,343 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 75551
+INFO  2019-06-22 21:43:36,483 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:43:36,483 Coordinates.py       get_coordinates           65    chunk_size: 200
+DEBUG 2019-06-22 21:43:36,492 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:43:36,684 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 766
+INFO  2019-06-22 21:43:36,688 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:43:36,688 Coordinates.py       get_coordinates           65    chunk_size: 200
+INFO  2019-06-22 21:43:36,717 _internal.py         _log                      87    127.0.0.1 - - [22/Jun/2019 21:43:36] "POST /radius HTTP/1.1" 200 -
+DEBUG 2019-06-22 21:43:37,407 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:43:38,013 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 75551
+INFO  2019-06-22 21:43:38,150 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:43:38,150 Coordinates.py       get_coordinates           65    chunk_size: 200
+DEBUG 2019-06-22 21:43:38,158 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:43:38,346 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 766
+INFO  2019-06-22 21:43:38,350 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:43:38,350 Coordinates.py       get_coordinates           65    chunk_size: 200
+INFO  2019-06-22 21:43:38,374 _internal.py         _log                      87    127.0.0.1 - - [22/Jun/2019 21:43:38] "POST /radius HTTP/1.1" 200 -
+INFO  2019-06-22 21:47:45,608 _internal.py         _log                      87     * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+DEBUG 2019-06-22 21:47:49,231 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:47:50,161 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 75551
+INFO  2019-06-22 21:47:50,285 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:47:50,285 Coordinates.py       get_coordinates           65    chunk_size: 200
+INFO  2019-06-22 21:47:50,313 _internal.py         _log                      87    127.0.0.1 - - [22/Jun/2019 21:47:50] "GET / HTTP/1.1" 200 -
+DEBUG 2019-06-22 21:47:52,467 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:47:53,046 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 75551
+INFO  2019-06-22 21:47:53,206 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:47:53,206 Coordinates.py       get_coordinates           65    chunk_size: 200
+INFO  2019-06-22 21:47:53,215 _internal.py         _log                      87    127.0.0.1 - - [22/Jun/2019 21:47:53] "GET /data HTTP/1.1" 200 -
+DEBUG 2019-06-22 21:48:12,769 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:48:13,251 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 75551
+INFO  2019-06-22 21:48:13,464 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:48:13,465 Coordinates.py       get_coordinates           65    chunk_size: 200
+DEBUG 2019-06-22 21:48:13,475 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:48:13,676 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 766
+INFO  2019-06-22 21:48:13,680 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:48:13,680 Coordinates.py       get_coordinates           65    chunk_size: 200
+INFO  2019-06-22 21:48:13,705 _internal.py         _log                      87    127.0.0.1 - - [22/Jun/2019 21:48:13] "POST /radius HTTP/1.1" 200 -
+DEBUG 2019-06-22 21:48:13,711 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:48:14,256 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 75551
+INFO  2019-06-22 21:48:14,393 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:48:14,393 Coordinates.py       get_coordinates           65    chunk_size: 200
+DEBUG 2019-06-22 21:48:14,402 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:48:14,605 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 766
+INFO  2019-06-22 21:48:14,608 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:48:14,608 Coordinates.py       get_coordinates           65    chunk_size: 200
+INFO  2019-06-22 21:48:14,632 _internal.py         _log                      87    127.0.0.1 - - [22/Jun/2019 21:48:14] "POST /radius HTTP/1.1" 200 -
+DEBUG 2019-06-22 21:48:30,656 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:48:31,115 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 75551
+INFO  2019-06-22 21:48:31,274 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:48:31,274 Coordinates.py       get_coordinates           65    chunk_size: 200
+DEBUG 2019-06-22 21:48:31,305 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:48:31,971 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 75551
+INFO  2019-06-22 21:48:32,109 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:48:32,109 Coordinates.py       get_coordinates           65    chunk_size: 200
+DEBUG 2019-06-22 21:48:32,123 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:48:32,688 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 75551
+INFO  2019-06-22 21:48:32,826 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:48:32,826 Coordinates.py       get_coordinates           65    chunk_size: 200
+DEBUG 2019-06-22 21:48:32,842 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:48:33,306 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 75551
+INFO  2019-06-22 21:48:33,553 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:48:33,554 Coordinates.py       get_coordinates           65    chunk_size: 200
+DEBUG 2019-06-22 21:48:33,563 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:48:33,916 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 766
+INFO  2019-06-22 21:48:33,920 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:48:33,921 Coordinates.py       get_coordinates           65    chunk_size: 200
+DEBUG 2019-06-22 21:48:33,949 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:48:34,503 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 75551
+INFO  2019-06-22 21:48:34,674 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:48:34,674 Coordinates.py       get_coordinates           65    chunk_size: 200
+DEBUG 2019-06-22 21:48:34,683 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:48:34,873 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 772
+INFO  2019-06-22 21:48:34,876 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:48:34,876 Coordinates.py       get_coordinates           65    chunk_size: 200
+DEBUG 2019-06-22 21:48:34,905 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:48:35,494 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 75551
+INFO  2019-06-22 21:48:35,665 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:48:35,665 Coordinates.py       get_coordinates           65    chunk_size: 200
+DEBUG 2019-06-22 21:48:35,676 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:48:35,866 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 766
+INFO  2019-06-22 21:48:35,870 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:48:35,870 Coordinates.py       get_coordinates           65    chunk_size: 200
+DEBUG 2019-06-22 21:48:35,904 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:48:36,479 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 75551
+INFO  2019-06-22 21:48:36,648 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:48:36,648 Coordinates.py       get_coordinates           65    chunk_size: 200
+DEBUG 2019-06-22 21:48:36,658 connectionpool.py    _new_conn                 818   Starting new HTTPS connection (1): api.postcodes.io
+DEBUG 2019-06-22 21:48:36,856 connectionpool.py    _make_request             395   https://api.postcodes.io:443 "POST /postcodes HTTP/1.1" 200 772
+INFO  2019-06-22 21:48:36,859 Coordinates.py       get_coordinates           63    Request made successfully
+INFO  2019-06-22 21:48:36,859 Coordinates.py       get_coordinates           65    chunk_size: 200
